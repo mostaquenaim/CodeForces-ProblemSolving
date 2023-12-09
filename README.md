@@ -22,4 +22,4 @@ Your contributions are highly appreciated!
 ## Contact
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 - Email: [mostaque.naim.42140@gmail.com](mailto:mostaque.naim.42140@gmail.com)
-- LinkedIn: [Mostaque Ahammed](https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/mostaquenaim/)https://www.linkedin.com/in/mostaquenaim/)
+- LinkedIn: [Mostaque Ahammed](https://www.linkedin.com/in/mostaquenaim/)
