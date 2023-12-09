@@ -6,7 +6,7 @@ Welcome to my CodeForces Problem Solving repository! This collection contains my
 CodeForces is a popular competitive programming platform that hosts a variety of algorithmic and mathematical problems. This repository serves as a record of my solutions to these problems, showcasing my journey in honing problem-solving skills with C++.
 
 ## How to Use
-Feel free to explore the repository based on contests or problem tags. Each problem folder includes the C++ solution file (`solution.cpp`) and a README.md file providing additional information about the problem and the approach taken.
+Feel free to explore the repository based on problem difficulties. 
 
 To run the code locally, ensure you have a C++ compiler installed. Copy and paste the code into a file with a `.cpp` extension and compile and run it according to your compiler's instructions.
 
